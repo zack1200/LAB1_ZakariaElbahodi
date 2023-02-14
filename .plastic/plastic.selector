@@ -1,0 +1,4 @@
+repository "LAB1_ZakariaElbahodi@zakaria_cegep@cloud"
+  path "/"
+    br "/main"
+    co "/main"
